@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/observer-dotnet-example/bin/Debug
+/.vs/observer-dotnet-example/v16
+/observer-dotnet-example/obj/Debug
